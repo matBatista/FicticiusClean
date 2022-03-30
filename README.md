@@ -2,20 +2,20 @@
 
 <h2><i> api rest e web api </i></h2>
 
-Ferramenta produzida com Entity Framework + SQL Server, usei um banco de dados LocalDB para fazer os testes;
+Ferramenta produzida com Entity Framework + SQL Server, usei um banco de dados LocalDB para fazer os testes; 
 
 no arquivo appsettings.json esta a conexao com o localdb;
 ![image](https://user-images.githubusercontent.com/28540187/160851056-fb2fe4cd-7130-415c-bc9a-f91a3575b43a.png)
-
+<br><hr>
 
 Após abrir a aplicação no VisualStudio abrir o Console PowerShell e executar os comandos
 
-add-migrations
+add-migrations<br>
 update-database<br>
 
 ![image](https://user-images.githubusercontent.com/28540187/160844513-afee2859-65e0-42ca-b6c6-10a4526b2163.png)
 
-*Para o entity framework criar o banco de dados e aplicar as alteracoes;* <br>
+*Para o entity framework criar o banco de dados e aplicar as alteracoes;* <br><hr>
 
 Após feito isso, dentro das propriedades da Aplicacao, você pode selecionar qual projeto irá inicializar.
 
