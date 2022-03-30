@@ -23,8 +23,8 @@ namespace FicticiusClean.Tools
                 {
                 new Veiculo { nome = "Panda", marca = "Cintroen", modelo = "Air Cross", dataFabricacao = Convert.ToDateTime("2018-05-02"), consumoCidade = 8.75, consumoEstrada = 12},
                 new Veiculo { nome = "Lancera", marca = "Mitsubish", modelo = "Lancer", dataFabricacao = Convert.ToDateTime("2022-10-11"), consumoCidade = 5, consumoEstrada = 10},
-                new Veiculo { nome = "Jac", marca = "Jac Mottors", modelo = "J3 Turin", dataFabricacao = Convert.ToDateTime("2014-01-01"), consumoCidade = 10, consumoEstrada = 15},
-                new Veiculo { nome = "Civicao", marca = "Honda", modelo = "Civic M", dataFabricacao = Convert.ToDateTime("2021-01-01"), consumoCidade = 5, consumoEstrada = 11.3},
+                new Veiculo { nome = "Jac", marca = "Jac Mottors", modelo = "J3 Turin", dataFabricacao = Convert.ToDateTime("2014-03-01"), consumoCidade = 10, consumoEstrada = 15},
+                new Veiculo { nome = "Civicao", marca = "Honda", modelo = "Civic M", dataFabricacao = Convert.ToDateTime("2021-01-11"), consumoCidade = 5, consumoEstrada = 11.3},
                 };
 
                 _context.tb_veiculo.AddRange(Locadora);
