@@ -19,7 +19,7 @@ update-database<br>
 
 Após feito isso, dentro das propriedades da Aplicacao, você pode selecionar qual projeto irá inicializar.
 
-![image](https://user-images.githubusercontent.com/28540187/160850720-ca1151a7-389b-4331-8659-431eb955a763.png)
+![image](https://user-images.githubusercontent.com/28540187/160852090-0c4a3db3-24fc-4165-9b96-da49ce119db6.png)
 
 ![image](https://user-images.githubusercontent.com/28540187/160844437-588ae821-4414-44d4-b301-81b3acd00dda.png)
 
